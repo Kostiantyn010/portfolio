@@ -97,7 +97,7 @@ const Hero = () => {
             <a href="https://github.com/Kostiantyn010" target="_blank" rel="noreferrer" className="btn-secondary" style={{ padding: '1rem', borderRadius: '50%' }}>
               <FaGithub size={20} />
             </a>
-            <a href="https://linkedin.com/in/kostiantyn-bilokopytov" target="_blank" rel="noreferrer" className="btn-secondary" style={{ padding: '1rem', borderRadius: '50%' }}>
+            <a href="https://www.linkedin.com/in/kostia-bilokopytov-266228410/" target="_blank" rel="noreferrer" className="btn-secondary" style={{ padding: '1rem', borderRadius: '50%' }}>
               <FaLinkedin size={20} />
             </a>
           </div>
