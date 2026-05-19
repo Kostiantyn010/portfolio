@@ -94,7 +94,7 @@ const Hero = () => {
           </a>
           
           <div style={{ display: 'flex', gap: '0.5rem', marginLeft: '1rem' }}>
-            <a href="https://github.com/kbilokopytov" target="_blank" rel="noreferrer" className="btn-secondary" style={{ padding: '1rem', borderRadius: '50%' }}>
+            <a href="https://github.com/Kostiantyn010" target="_blank" rel="noreferrer" className="btn-secondary" style={{ padding: '1rem', borderRadius: '50%' }}>
               <FaGithub size={20} />
             </a>
             <a href="https://linkedin.com/in/kostiantyn-bilokopytov" target="_blank" rel="noreferrer" className="btn-secondary" style={{ padding: '1rem', borderRadius: '50%' }}>
